@@ -1,0 +1,15 @@
+{
+  "name": "@jamsite/site-starter-glitch-com-hello-world",
+  "version": "1.0.0",
+  "description": "Jamsite glitch-com-hello-world starter site.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx jamsite start-dev"
+  },
+  "author": "Aleksandr Tsertkov <tsertkov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@jamsite/jamsite-dev": "0.0.21",
+    "@jamsite/jamsite-cli": "0.0.2"
+  }
+}
